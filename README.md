@@ -9,8 +9,12 @@ Reporting and Analytics: Gain valuable insights into project performance through
 Secure User Authentication: Protect your data with robust user authentication and authorization mechanisms.
 Email Notifications: Stay informed with email notifications for important project events and updates.
 
-![p1](https://github.com/blertton/ProjectMenagment/assets/86237949/a319a97d-0f29-43e8-b5c5-3395825028dc)
-![p2](https://github.com/blertton/ProjectMenagment/assets/86237949/54252c2b-0695-4119-ae2e-1d480d7ca8f5)
-![p3](https://github.com/blertton/ProjectMenagment/assets/86237949/f9522599-c436-401f-b08a-a05cd40dcbde)
-![p4](https://github.com/blertton/ProjectMenagment/assets/86237949/7433d60b-90ac-4899-b0b5-c0ed169a58cd)
-![p5](https://github.com/blertton/ProjectMenagment/assets/86237949/abe2587f-1104-4bdc-8cb1-0aa694dab4b6)
+
+![68747470733a2f2f692e6962622e636f2f677237354c327a2f737263312e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/38e73ce1-6e1c-40fb-b235-b3c74a648763)
+![68747470733a2f2f692e6962622e636f2f53566b794262502f737263332e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/3189b3df-ba72-4548-9185-3d422ce0810d)
+![68747470733a2f2f692e6962622e636f2f377833367953742f737263352e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/c20b4d23-b7b8-467d-8992-190dcb2b0cd9)
+![68747470733a2f2f692e6962622e636f2f306d4364644c622f737263342e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/91986edb-f8a8-4597-b9b4-9472f51f71f2)
+![68747470733a2f2f692e6962622e636f2f4774684c4771442f73726331332e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/4f9b5062-95d9-4d4e-b027-3f358dce9ec5)
+![68747470733a2f2f692e6962622e636f2f31664d483331462f73726331312e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/83a8834f-d3da-4f63-b509-20b4ad26d67e)
+![68747470733a2f2f692e6962622e636f2f38584a714433482f73726331302e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/f8e3fd80-ee1c-4d99-b7b3-c99bbf21ff87)
+![68747470733a2f2f692e6962622e636f2f53566b794262502f737263332e6a7067](https://github.com/blertton/ProjectMenagment/assets/86237949/3189b3df-ba72-4548-9185-3d422ce0810d)
